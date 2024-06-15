@@ -8,13 +8,8 @@
 </p>
 
 
-https://github.com/hi-zhengcheng/vividzoo/assets/33408107/b2783c47-492c-4aff-b2c3-d0f5789b74fe
 
-
-
-
-https://github.com/hi-zhengcheng/vividzoo/assets/33408107/c72a0962-551d-4e97-b86d-53852f9582c2
-
+https://github.com/hi-zhengcheng/vividzoo/assets/33408107/521ea013-08c8-47a8-84f1-511c31a9f1dd
 
 
 While diffusion models have shown impressive performance in 2D image/video generation, diffusion-based Text-to-Multi-view-Video (T2MVid) generation remains underexplored. The new challenges posed by T2MVid generation lie in the lack of massive captioned multi-view videos and the complexity of modeling such multi-dimensional distribution. To this end, <b>we propose a novel diffusion-based pipeline that generates high-quality multi-view videos centered around a dynamic 3D object from text</b>. Specifically, we factor the T2MVid problem into viewpointspace and time components. Such factorization allows us to combine and reuse layers of advanced pre-trained multi-view image and 2D video diffusion models to ensure multi-view consistency as well as temporal coherence for the generated multi-view videos, largely reducing the training cost. We further introduce alignment modules to align the latent spaces of layers from the pre-trained multi-view and the 2D video diffusion models, addressing the reused layers’ incompatibility that arises from the domain gap between 2D and multi-view data. To facilitate this research line, we further contribute a captioned multi-view video dataset. Experimental results demonstrate that our method generates high-quality multi-view videos, exhibiting vivid motions, temporal coherence, and multi-view consistency, given a variety of text prompts.

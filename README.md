@@ -16,7 +16,7 @@ While diffusion models have shown impressive performance in 2D image/video gener
 
 ## News
 **[06/14/2024]** We have released paper!  
-**[06/17/2024]** 4D Dataset is realeased!
+**[06/17/2024]** We have released our 4D Dataset!
 ## TODO
 - [x] The dataset will be released soon
 ## 4D Dataset

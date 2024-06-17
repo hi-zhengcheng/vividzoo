@@ -17,8 +17,7 @@ While diffusion models have shown impressive performance in 2D image/video gener
 ## News
 **[06/14/2024]** We have released paper!  
 **[06/17/2024]** We have released our 4D Dataset!
-## TODO
-- [x] The dataset will be released soon
+
 ## 4D Dataset
 If you would like to download our 4D Dataset data, please fill out this [google form](https://forms.gle/hk46ZhP9WZNWuS786), once accepted, we will send you the link to download the data. You should receive the link within one or two days.
 

@@ -4,6 +4,7 @@
 <p align="center">
   [<a href="https://arxiv.org/pdf/2406.08659" target="_blank"><strong>Paper</strong></a>]
   [<a href="https://hi-zhengcheng.github.io/vividzoo/" target="_blank"><strong>Project</strong></a>]
+  [<a href="#4d-dataset"><strong>4D Dataset</strong></a>]
   [<a href="#citation"><strong>BibTeX</strong></a>]
 </p>
 

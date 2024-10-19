@@ -1,4 +1,4 @@
-# Vivid-ZOO: Multi-View Video Generation with Diffusion Model
+# [NeurIPS 2024] Vivid-ZOO: Multi-View Video Generation with Diffusion Model
 
 
 <p align="center">
